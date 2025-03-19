@@ -17,3 +17,6 @@
 3. **Write Documentation** – Include a `README.md` with project details, features, and usage.  
 4. **Commit & Push** – Stage changes, commit with a meaningful message, and push to GitHub.  
 5. **Collaborate & Update** – Maintain the repo with improvements, issues, and contributions. 🚀
+
+##Dashboard img
+![Screenshot 2025-03-19 163503](https://github.com/user-attachments/assets/ccc553fc-1ed6-4f56-aa95-0e35e9cdc67b)
