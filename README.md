@@ -1,4 +1,4 @@
-#Sales Analysis Dashboard
+# Sales Analysis Dashboard
 ## Project Objective
 - **Sales Analysis Dashboard** built using **Power BI** and **Excel (CSV dataset)** to visualize sales trends.  
 - **Dataset:** 500 sales records covering **date, region, product, and sales amount**.  
