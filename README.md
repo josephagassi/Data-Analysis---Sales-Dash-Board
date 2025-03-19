@@ -9,7 +9,7 @@
 ## Dataset Used
 - <a href="https://github.com/josephagassi/Data-Analysis---Sales-Dash-Board/blob/main/sample_sales_data.csv">Dataset</a>
 
-  
+ - <a href="https://github.com/josephagassi/Data-Analysis---Sales-Dash-Board/blob/main/sales%20dashboard.pbix">Sales Dashboard</a>
 
 ## Process
 1. **Initialize Repository** – Create a new repository on GitHub and clone it locally.  
