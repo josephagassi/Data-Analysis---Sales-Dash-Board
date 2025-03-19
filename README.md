@@ -8,3 +8,12 @@
 -                                                                                
 ## Dataset Used
 - <a href="https://github.com/josephagassi/Data-Analysis---Sales-Dash-Board/blob/main/sample_sales_data.csv">Dataset</a>
+
+  
+
+## Process
+1. **Initialize Repository** – Create a new repository on GitHub and clone it locally.  
+2. **Add Files** – Upload `sample_sales_data.csv` and `sales dashboard.pbix`.  
+3. **Write Documentation** – Include a `README.md` with project details, features, and usage.  
+4. **Commit & Push** – Stage changes, commit with a meaningful message, and push to GitHub.  
+5. **Collaborate & Update** – Maintain the repo with improvements, issues, and contributions. 🚀
